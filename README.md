@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mangeshchavan
-- 🌱 I’m Backend developer : Djanog , Java
+- 🌱 I’m Backend developer : Django DRF , Java spring MVC, spring boot,MySQL, Postgresql, AWS 
 - 📫 How to reach me : chavanmangesh245@gmail.com/8605570886
 
 <!---
