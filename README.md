@@ -4,7 +4,7 @@
 <!-- Badges with custom icons -->
 <p align="left">
   <a href="https://www.linkedin.com/in/chavanmangesh245/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
-  <a href="https://twitter.com/mangeshchavan"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat&logo=twitter&logoColor=white"></a>
+  <a href="https://x.com/chavanmangesh23"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat&logo=twitter&logoColor=white"></a>
   <a href="https://github.com/mangeshchavan"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/-GitHub-333?style=flat&logo=github"></a>
 </p>
 
@@ -31,7 +31,7 @@ I am always eager to learn new things and take on new challenges.
 ### 📫 How to reach me
 
 - LinkedIn: [mangeshchavan](https://www.linkedin.com/in/chavanmangesh245/)
-- Twitter: [@mangeshchavan](https://twitter.com/mangeshchavan)
+- Twitter: [@mangeshchavan](https://x.com/chavanmangesh23)
 - Email: chavanmangesh245@gmail.com
 
 ### 🌟 Projects
