@@ -25,9 +25,8 @@ I am always eager to learn new things and take on new challenges.
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mangeshchavan&show_icons=true&theme=radical" alt="mangeshchavan's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=mangeshchavan&show_icons=true&theme=radical&count_private=true&token=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" alt="mangeshchavan's GitHub stats">
 </p>
-
 ### 📫 How to reach me
 
 - LinkedIn: [mangeshchavan](https://www.linkedin.com/in/chavanmangesh245/)
