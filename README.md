@@ -16,11 +16,11 @@ I am always eager to learn new things and take on new challenges.
 
 ### 🛠️ Technologies & Tools
 
-- **Languages**: JavaScript, Python, Java, C++
-- **Web Development**: HTML, CSS, React, Node.js, Express
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Tools & Platforms**: Git, Docker, Kubernetes, AWS, Azure
-- **Others**: Machine Learning, Data Analysis, REST APIs
+- **Languages**: JavaScript, Python, Java
+- **Web Development**: HTML, CSS
+- **Databases**: MySQL, PostgreSQL
+- **Tools & Platforms**: Git, Docker, AWS,
+- **Others**: REST APIs, Django DRF
 
 ### 📈 GitHub Stats
 
